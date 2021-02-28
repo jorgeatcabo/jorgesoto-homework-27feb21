@@ -4,7 +4,7 @@
 
 ## Improvements
 * Meets accessibility standards
-    ** [w3 Accessibility Intro](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+    * [w3 Accessibility Intro](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 * Use of semantic HTML elements
 * Logical structure independent of styling and positioning
 * Accessible alt attributes
