@@ -3,5 +3,5 @@
 # Marketing Agency Website Improved
 
 ## Improvements
-*Meets accessibility standards
-*Use of semantic HTML elements
+* Meets accessibility standards
+* Use of semantic HTML elements
